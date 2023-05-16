@@ -1,0 +1,41 @@
+{
+    "posts": [
+      {
+        "postId": "1",
+        "title": "Consumed today",
+        "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+        "content": "Bread-3000 won",
+        "postCreatedAt": "May 17, 2023 03:24:00",
+        "postUpdatedAt": "May 17, 2023 06:24:00",
+        "userId": "100",
+        "nickname": "beggar1",
+        "likeNum": 1,
+        "commentNum": 1
+      },
+      {
+        "postId": "2",
+        "title": "Look at what you consumed",
+        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "content": "Apples-3000 won",
+        "postCreatedAt": "May 18, 2023 03:24:00",
+        "postUpdatedAt": "May 18, 2023 06:24:00",
+        "userId": "200",
+        "nickname": "Beggar2",
+        "likeNum": 2,
+        "commentNum": 2
+      },
+      {
+        "postId": "3",
+        "title": "Live for a week on 10,000 won",
+        "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "content": "Jam-3000 won",
+        "postCreatedAt": "May 19, 2023 03:24:00",
+        "postUpdatedAt": "May 19, 2023 06:24:00",
+        "userId": "300",
+        "nickname": "beggar3",
+        "likeNum": 3,
+        "commentNum": 3
+      }
+    ]
+  }
+  
